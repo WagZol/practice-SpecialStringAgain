@@ -24,8 +24,9 @@ The second line contains the string *s*.
 Print a single line containing the count of total special substrings.
 
 ## Sample Input 0
-```5
-asasd```
+```5```
+```asasd```
+
 ## Sample Output 0
 ```7```
 
@@ -33,8 +34,8 @@ asasd```
 The special palindromic substrings of ***s*****=asasd** are **{a, s, a, s, d, asa, sas}**
 
 ## Sample Input 1
-```7
-abcbaba```
+```7```
+```abcbaba```
 
 ## Sample Output 1
 ```10```
@@ -43,8 +44,8 @@ abcbaba```
 The special palindromic substrings of ***s*****=abcbaba** are **{a, b, c, b, a, b, a, bcb, bab, aba}**
 
 ## Sample Input 2
-```4
-aaaa```
+```4```
+```aaaa```
 
 ## Sample Output 2
 ```10```
