@@ -31,7 +31,7 @@ Print a single line containing the count of total special substrings.
 ```7```
 
 ## Explanation 0
-The special palindromic substrings of ***s*****=asasd** are **{a, s, a, s, d, asa, sas}**
+The special palindromic substrings of ***s*** **= asasd** are **{a, s, a, s, d, asa, sas}**
 
 ## Sample Input 1
 ```7```
@@ -41,7 +41,7 @@ The special palindromic substrings of ***s*****=asasd** are **{a, s, a, s, d, as
 ```10```
 
 ## Explanation 1
-The special palindromic substrings of ***s*****=abcbaba** are **{a, b, c, b, a, b, a, bcb, bab, aba}**
+The special palindromic substrings of ***s*** **= abcbaba** are **{a, b, c, b, a, b, a, bcb, bab, aba}**
 
 ## Sample Input 2
 ```4```
@@ -51,4 +51,4 @@ The special palindromic substrings of ***s*****=abcbaba** are **{a, b, c, b, a, 
 ```10```
 
 ## Explanation 2
-The special palindromic substrings of ***s*****=aaaa** are **{a, a, a, a, aa, aa, aa, aaa, aaa, aaaa}**
+The special palindromic substrings of ***s*** **= aaaa** are **{a, a, a, a, aa, aa, aa, aaa, aaa, aaaa}**
